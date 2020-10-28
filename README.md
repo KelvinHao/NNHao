@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-By [Google Mail](nnhao9a3@gmail.com).
+By [Google Mail](nnhao9a3@gmail.com)  <br />
 By [Facebook]{https://www.facebook.com/profile.php?id=100011331665845}
 
 <br />
