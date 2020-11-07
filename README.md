@@ -4,7 +4,7 @@
 ## I'm a Student from FPT University!!
 
 - 🔭 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Gain more experience with On Job Training at FPT software
+- 🥅 2020 Goals: Gain more experience with On Job Training Semester at FPT software
 - ⚡ Fun fact: I love Chinese music and every type of books,...
 
 
