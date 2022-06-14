@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-By [Google Mail](nnhao9a3@gmail.com) <br />
+By Google Mail: nnhao9a3@gmail.com <br />
 By [Facebook](https://www.facebook.com/nnhao14102000) <br />
 
 ### Languages:
