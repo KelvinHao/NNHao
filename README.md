@@ -1,6 +1,6 @@
 ### Hi there, I'm Nguyen Nhut Hao 👋
 
-## I'm a Student from FPT University from 2018 to now!!
+## I'm a Student from FPT University from 2018 to 2022!!
 
 - 🔭 I’m currently learning everything 🤣
 - 🚀 04/01/2021 - 09/04/2021 Goals: Gain more experience with On Job Training (OJT) Semester at FPT software
