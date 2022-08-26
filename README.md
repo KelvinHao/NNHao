@@ -1,10 +1,10 @@
 ### Hi there, I'm Nguyen Nhut Hao 👋
 
 ## I'm a Student from FPT University from 2018 to 2022!!
-
+- 🚀 04/01/2021 - 09/04/2021: Gain more experience with On Job Training (OJT) Semester at FPT software
+- 
+## I'm a software engineer at TMA Solutions from 09/08/2022
 - 🔭 I’m currently learning everything 🤣
-- 🚀 04/01/2021 - 09/04/2021 Goals: Gain more experience with On Job Training (OJT) Semester at FPT software
-- 📅 After OJT Semester Goals: Recover knowledge about Database Design - SQL, Web Design. Besides that, Learn deep into ASP.NET Core and .NET 5 to upskill
 - ⚡ Fun fact: I love Chinese music and every type of books,...
 
 ### Connect with me:
@@ -22,6 +22,7 @@ By [Facebook](https://www.facebook.com/nnhao14102000) <br />
 - SQL (basic with Microsoft SQL Server)
 - MarkDown (basic)
 - Angular TypeScript (basic)
+- ReactJS
 - Java (basic)
 
 ### Tools:
